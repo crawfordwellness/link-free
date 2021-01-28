@@ -10,7 +10,7 @@ colors:
   DEFAULT: '#FAFAFA'
   highlight: '#00d1b7'
   accent: '#262626'
-  background: '#262626'
+  background: '#f5f5f5'
 tracking:
   which: none
   id: ''
