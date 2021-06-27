@@ -1,8 +1,8 @@
 ---
 key: links
 data:
-  - label: Contact my office 💬
-    url: https://crawford-wellness.com/contact
+  - label: Visit our Website 🌎
+    url: https://crawford-wellness.com/
   - label: Youtube Channel 🎦
     url: https://www.youtube.com/c/CrawfordWellness?sub_confirmation=1
   - label: Online Store - use code TIKTOK to save 15%!
