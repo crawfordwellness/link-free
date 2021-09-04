@@ -1,9 +1,7 @@
 ---
 key: links
 data:
-  - label: Botanical Biohacking Podcast "Malpractice Mercola"
-  - url: https://botanicalbiohacking.com/blog/2021/8/8/scumbag-celebrity-doctors-mercola-edition
-  - label: studies referenced in tiktok videos
+   - label: studies referenced in tiktok videos
     url: https://docs.google.com/spreadsheets/d/e/2PACX-1vRPh8MeaZqIBWYCcj9hShpeaUkYw2cz-A3OAevr6jXuJFpxUAz8Bqu0iPEz2L_YoxzHtRa83ltxUmlX/pubhtml
   - label: Visit our Website 🌎
     url: https://crawford-wellness.com/
@@ -16,4 +14,6 @@ data:
     url: https://cw.janeapp.com
   - label: Like us on Facebook 👍
     url: https://www.facebook.com/cwellnessllc
+  - label: Botanical Biohacking Podcast "Malpractice Mercola"
+    url: https://botanicalbiohacking.com/blog/2021/8/8/scumbag-celebrity-doctors-mercola-edition
 ---
