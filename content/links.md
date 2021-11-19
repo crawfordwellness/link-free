@@ -14,6 +14,4 @@ data:
     url: https://cw.janeapp.com
   - label: Like us on Facebook 👍
     url: https://www.facebook.com/cwellnessllc
-  - label: Botanical Biohacking Podcast "Malpractice Mercola"
-    url: https://botanicalbiohacking.com/blog/2021/8/8/scumbag-celebrity-doctors-mercola-edition
 ---
